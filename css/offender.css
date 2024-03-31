@@ -1,0 +1,66 @@
+body{
+    overflow-x: hidden;
+}
+
+#title{
+    font-size: 6.9vw;
+    margin-top: 4vw;
+    text-align: center;
+}
+#instructions{
+    text-align: center;
+    font-size: 3.69vw;
+    color: #919191;
+}
+table{
+    margin: 0 5vw;
+}
+th, td{
+    width: 30vw;
+}
+td>a{
+    text-decoration: none;
+    color: rgb(30, 28, 28);
+    animation: funk infinite linear 4.20s;
+}
+@keyframes funk {
+    0%{color: rgb(119 64 64);}
+    36.9%{color: rgb(127, 93, 144);}
+    42.0%{color: rgb(66, 106, 106);}
+    69%{color: rgb(66, 137, 95);}
+    100%{color: rgb(114 52 96);}
+}
+
+
+.fag{
+    border: 0.1vw solid;
+    margin-top: 69vw;
+    opacity: 0;
+    transition: 1s;
+}
+.fagIMG{
+    width: 28vw;
+    margin: 2vw 6vw;
+}
+.fagPara{
+    width: 60vw;
+}
+.dob{
+    color: grey;
+    font-size: 4vw;
+    border-bottom: 0.2vw solid;
+    border-top: 0.2vw solid;
+}
+.desc{
+    font-size: 4vw;
+}
+
+
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 4vw;
+    text-align: center;
+    margin-top: 12vw;
+}

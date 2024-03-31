@@ -1,0 +1,43 @@
+#seggs{
+    opacity: 0.2;
+    position: absolute;
+    width: 100vw;
+    height: 110vw;
+}
+
+#carasoul{
+    width: 90vw;
+    height: 70vw;
+    margin: 8vw 0;
+    transition: 0.69s;
+    background-image: url(../images/logo.webp);
+    background-size: cover;
+}
+
+article{
+    margin: 0 6.9vw;
+}
+
+
+.foundingFags{
+    margin: 13.69vw 0;
+}
+.fags{
+    width: 40vw;
+    margin: 0 4vw;
+}
+.fagName{
+    margin-top: 2vw;
+    font-size: 6.9vw;
+}
+.fagsDesc{
+    width: 44vw;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 4vw;
+    text-align: center;
+    margin-top: 12vw;
+}

@@ -1,0 +1,21 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.seggsSesh{
+    width: 100vw;
+    margin-left: 100vw;
+    display: block;
+    border: 0.2vw solid;
+    padding: 6vw 0;
+    transition: 1s;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 4vw;
+    text-align: center;
+    margin-top: 12vw;
+}
